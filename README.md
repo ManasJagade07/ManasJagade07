@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on freelancers
 - 📫 How to reach me manasjagade262@gmail.com
-- 😄 Pronouns: Happycoder
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love travelling
 
 <!---
